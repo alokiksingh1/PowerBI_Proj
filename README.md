@@ -1,5 +1,6 @@
-# PowerBI_Proj
-This is a PowerBI Project for the company named Atliq in India
+# PowerBi Project
+This is a PowerBi Project for the company named Atliq in India
+There is an SQL data file provided in this repository which is used to create the end result of the PowerBi Dashboard (.pbix file)
 
 ## Problem Statement :
 
